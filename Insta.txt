@@ -5,8 +5,8 @@ from instapy import set_workspace
 
 
 # login credentials
-insta_username = 'lalocamargarita_'
-insta_password = 'Dani.012+'
+insta_username = 'xxxxxx'
+insta_password = 'xxxxxx'
 
 # get an InstaPy session!
 # set headless_browser=True to run InstaPy in the background
